@@ -8,6 +8,8 @@ on:
 jobs:
   update-readme:
     name: Update Readme with badges
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
