@@ -6,7 +6,7 @@
 <div align="center">
 
 <!--START_SECTION:badges-->
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/698ad014-7088-476a-bd95-204c638c8be2 "CKAD: Certified Kubernetes Application Developer")
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/698ad014-7088-476a-bd95-204c638c8be2 "CKAD: Certified Kubernetes Application Developer")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/c022d1f0-2a5b-4edb-a490-9bd93855c010 "CKA: Certified Kubernetes Administrator")
 <!--END_SECTION:badges-->
   
